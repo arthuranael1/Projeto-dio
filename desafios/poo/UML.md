@@ -1,6 +1,4 @@
-# [DIO](www.dio.me) - Trilha Java Básico
-
- Diagrama UML (Mermaid)
+# Diagrama UML (Mermaid)
 ```mermaid
 classDiagram
     class ReprodutorMusical {
